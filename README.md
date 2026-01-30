@@ -1,6 +1,7 @@
 ## Hi, I'm [Dave Barnwell](https://d4b.dev) 👋
 
-📍 [Cornwall, UK](https://maps.app.goo.gl/5HTxsBj2KtagHonF6) | 🤖 [Software Architect / Full Stack Developer](https://d4b.dev) |  🎶 [Music Lover](https://www.instagram.com/davesgroove/)
+📍 [Cornwall, UK](https://maps.app.goo.gl/5HTxsBj2KtagHonF6) |
+🤖 [Software Architect / Full Stack Developer](https://d4b.dev) | 🎶 [Music Lover](https://www.instagram.com/davesgroove/)
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=Laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white)
@@ -41,3 +42,14 @@
 - 🗜️ [Favicon Maker](https://favicon-maker.d4b.dev) - A tool to create favicons for your website.
 - ✅ [Open Graph Checker](https://social.d4b.dev) - A tool to check your Open Graph tags.
 - ☀️ [Weather Checker](https://weather.d4b.dev/?l=Gwithian%2C+United+Kingdom) - A tool to check your weather.
+
+## My Vibe
+
+- 🎙️ [Music](https://www.last.fm/user/dave_barnwell)
+- 📚 [Books](https://www.goodreads.com/user/show/61285088-dave-barnwell)
+
+## Philosophy
+
+I'd rather ship a product and learn than from customers feedback, than insist on perfection. I believe in the power of
+iteration and continuous improvement, and that by shipping early and often, we can gather valuable feedback and make
+better products.
