@@ -11,6 +11,7 @@
 ![Docker](https://img.shields.io/badge/docker-257bd6?logo=docker&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Node JS](https://img.shields.io/badge/node.js-339933?logo=Node.js&logoColor=white)
 ![Shell CLI](https://img.shields.io/badge/Shell-4EAA25?&style=plastic&logo=gnu-bash&logoColor=white)
 
