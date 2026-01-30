@@ -2,6 +2,8 @@
 
 📍 [Cornwall, UK](https://maps.app.goo.gl/5HTxsBj2KtagHonF6) | 🤖 [Software Architect / Full Stack Developer](https://d4b.dev) |  🎶 [Music Lover](https://www.instagram.com/davesgroove/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davebarnwell&layout=compact)
+
 ## Recent Professional Projects
 
 - 💪 [ActionStorm](https://actionstorm.org) - Campaign management platform.
