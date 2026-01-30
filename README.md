@@ -18,6 +18,9 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?&logo=vercel&logoColor=white)
 ![Linode](https://img.shields.io/badge/Linode-000?&logo=linode&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0099e6?&logo=digitalocean&logoColor=white)
+![codex](https://img.shields.io/badge/codex-000000?&logo=codex&logoColor=white)
+![gemini](https://img.shields.io/badge/gemini-000000?&logo=gemini&logoColor=white)
+![claude](https://img.shields.io/badge/claude-000000?&logo=claude&logoColor=white)
 
 ## Recent Professional Projects
 
