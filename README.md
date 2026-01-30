@@ -50,7 +50,7 @@
 - 🎶 [davesgroove](https://www.instagram.com/davesgroove/) - I make it a daily goal to listen to a vinyl album. It's
   a ritual and a relaxing experience, I post some of these on Instagram.
 - 📚 [Books read](https://www.goodreads.com/user/show/61285088-dave-barnwell) - I aim to read at least one book a week,
-  often SciFi, make of that what you will 😀.
+  often SciFi or Crime Novels; serious tech books get a look-in too.
 
 ## Philosophy
 
