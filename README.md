@@ -13,6 +13,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Node JS](https://img.shields.io/badge/node.js-339933?logo=Node.js&logoColor=white)
 ![Shell CLI](https://img.shields.io/badge/Shell-4EAA25?&style=plastic&logo=gnu-bash&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Linode](https://img.shields.io/badge/Linode-000?&logo=linode&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0099e6?&logo=digitalocean&logoColor=white)
 
 ## Recent Professional Projects
 
