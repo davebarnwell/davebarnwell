@@ -48,6 +48,7 @@
 
 - 🎙️ [Music streamed](https://www.last.fm/user/dave_barnwell) - I make it a daily goal to listen to a vinyl album. It's
   a ritual and a relaxing experience, unlike the convenience of streaming, where I listen to most of my music.
+- 🎶💿 [davesgroove](https://www.instagram.com/davesgroove/) - Sharing recent Vinyl album listens on Instagram.
 - 📚 [Books read](https://www.goodreads.com/user/show/61285088-dave-barnwell) - I aim to read at least one book a week,
   often SciFi!
 
