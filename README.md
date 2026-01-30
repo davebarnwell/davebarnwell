@@ -8,6 +8,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-000000?&logo=tdd&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-257bd6?logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Node JS](https://img.shields.io/badge/node.js-339933?logo=Node.js&logoColor=white)
