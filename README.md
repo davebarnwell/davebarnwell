@@ -46,8 +46,8 @@
 
 ## My Vibe
 
-- 🎙️ [Music I've been streaming](https://www.last.fm/user/dave_barnwell)
-- 📚 [Books I've been reading](https://www.goodreads.com/user/show/61285088-dave-barnwell)
+- 🎙️ [Music streamed](https://www.last.fm/user/dave_barnwell)
+- 📚 [Books read](https://www.goodreads.com/user/show/61285088-dave-barnwell)
 
 ## Philosophy
 
