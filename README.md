@@ -15,6 +15,7 @@
 ![Shell CLI](https://img.shields.io/badge/Shell-4EAA25?&style=plastic&logo=gnu-bash&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-5835CC?logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?&logo=vercel&logoColor=white)
 ![Linode](https://img.shields.io/badge/Linode-000?&logo=linode&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0099e6?&logo=digitalocean&logoColor=white)
 
