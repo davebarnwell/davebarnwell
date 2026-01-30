@@ -56,3 +56,4 @@
 
 - Ship product fast, in small increments, learn from customer feedback, iterate, don't wait on perfection.
 - Constantly reeducate yourself, learn new skills and technologies, judge which are worth investing more time in.
+- Soft skills should be balanced with Hard tech skills.
