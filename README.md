@@ -50,4 +50,4 @@
 
 ## Philosophy
 
-Ship product fast, in small increments, learn than from customer feedback, iterate, don't wait on perfection.
+Ship product fast, in small increments, learn from customer feedback, iterate, don't wait on perfection.
