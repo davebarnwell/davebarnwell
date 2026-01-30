@@ -55,6 +55,6 @@
 ## Philosophy
 
 - Ship product fast, in small increments, learn from customer feedback, iterate, don't wait on perfection.
-- Customer feedback (tests) as important as code tests.
+- Customer feedback (tests) are more important than code tests.
 - Constantly reeducate yourself, learn new skills and technologies, judge which are worth investing more time in.
 - Soft skills should be balanced with Hard tech skills.
