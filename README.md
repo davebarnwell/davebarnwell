@@ -39,7 +39,7 @@
 ## Personal Projects
 
 - 🏄🏻‍♂️ [Surfhog](https://surfhog.co.uk) - A surf forecast for West Cornwall, with 20+ years of climatic data.
-- 🧑‍💻 [d4b](https://d4b.dev) - A personal website, portfolio and blog.
+- 🧑‍💻 [d4b](https://d4b.dev) - Personal portfolio and blog.
 - 🗜️ [Favicon Maker](https://favicon-maker.d4b.dev) - A tool to create favicons for your website.
 - ✅ [Open Graph Checker](https://social.d4b.dev) - A tool to check your Open Graph tags.
 - ☀️ [Weather Checker](https://weather.d4b.dev/?l=Gwithian%2C+United+Kingdom) - A tool to check your weather.
