@@ -57,4 +57,4 @@
 - Ship product fast, in small increments, learn from customer feedback, iterate, don't wait on perfection.
 - Customer feedback (tests) is more important than code tests.
 - Constantly reeducate yourself, learn new skills and technologies, judge which are worth investing more time in.
-- Soft skills should be in balance with Hard tech skills, we all have to communicate even when a solo developer.
+- Soft skills should be in balance with Hard tech skills, we all have to communicate, even solo developers.
