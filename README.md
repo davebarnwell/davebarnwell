@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Dave Barnwell 👋
 
-<!--
-**davebarnwell/davebarnwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+📍 Cornwall, UK | 🤖 Software Architect / Full Stack Developer | 🏄🏻‍♂️ [Ex-Surfer](https://surfhog.co.uk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Recent Professional Projects
+
+- [ActionStorm](https://actionstorm.org): Campaign management platform.
+- [Pass](https://pass.tech/): Ed Tech platform.
+- [Open Britain](https://open-britain.co.uk): Campaigning for a fairer democracy.
+- [Crowdfunder](https://crowdfunder.co.uk): Crowdfunding platform.
+
+### Personal Projects
+
+- [Surfhog](https://surfhog.co.uk): A personal surf blog and portfolio website.
+- [d4b](https://d4b.dev): A personal website and portfolio.
