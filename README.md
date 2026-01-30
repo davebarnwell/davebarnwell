@@ -26,7 +26,7 @@
 ![gemini](https://img.shields.io/badge/gemini-000000?&logo=gemini&logoColor=white)
 ![claude](https://img.shields.io/badge/claude-000000?&logo=claude&logoColor=white)
 
-## Recent Professional Projects/Associations
+## Recent Professional Projects
 
 - 💪 [ActionStorm](https://actionstorm.org) - Campaign management platform.
 - 👩‍🏫 [Pass](https://pass.tech/) - Ed Tech platform.
