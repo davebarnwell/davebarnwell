@@ -13,7 +13,7 @@
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-brightgreen?&logo=cypress&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-green?&logo=jest&logoColor=white)
-![Node JS](https://img.shields.io/badge/node.js-339933?logo=Node.js&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white)
 ![Shell CLI](https://img.shields.io/badge/Shell-4EAA25?&style=plastic&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-257bd6?logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
