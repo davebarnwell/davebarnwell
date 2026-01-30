@@ -6,7 +6,7 @@
 
 - 💪 [ActionStorm](https://actionstorm.org) - Campaign management platform.
 - 👩‍🏫 [Pass](https://pass.tech/) - Ed Tech platform.
-- 🏛️ [Open Britain](https://open-britain.co.uk) - Campaigning for a fairer democracy.
+- 🏛️ [Open Britain](https://open-britain.co.uk) - Campaigning for a fairer UK democracy.
 - 🥳 [Sched/Emamo](https://sched.com) - Event management platform.
 - 🌟 [Best Energy](https://www.best.energy/) - Renewable energy/IoT platform.
 - 💰 [Crowdfunder](https://crowdfunder.co.uk) - Crowdfunding platform.
