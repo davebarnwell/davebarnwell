@@ -55,6 +55,7 @@
 ## Philosophy
 
 - Ship product fast, in small increments, learn from customer feedback, iterate, don't wait on perfection.
-- Customer feedback (tests) is more important than code tests.
+- Customer feedback is more important than code tests when rapidly growing new product features. But code tests continue
+  to be important for long-term stability and reliability.
 - Constantly reeducate yourself, learn new skills and technologies, judge which are worth investing more time in.
 - Soft skills should be in balance with Hard tech skills, we all have to communicate, even solo developers.
