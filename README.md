@@ -1,6 +1,6 @@
 ## Hi, I'm [Dave Barnwell](https://d4b.dev) 👋
 
-📍 Cornwall, UK | 🤖 Software Architect / Full Stack Developer | 🏄🏻‍♂️ [Ex-Surfer](https://surfhog.co.uk) | 🎶 [Music Lover](https://www.instagram.com/davesgroove/)
+📍 Cornwall, UK | 🤖 [Software Architect / Full Stack Developer](https://d4b.dev) | 🏄🏻‍♂️ [Ex-Surfer](https://surfhog.co.uk) | 🎶 [Music Lover](https://www.instagram.com/davesgroove/)
 
 ## Recent Professional Projects
 
