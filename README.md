@@ -7,7 +7,6 @@
 ![VueJS](https://img.shields.io/badge/Vue.js-blue?logo=Vue.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-blue?logo=GraphQL)
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-257bd6?logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
