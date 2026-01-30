@@ -47,7 +47,7 @@
 ## My Vibe
 
 - 🎙️ [Music streamed](https://www.last.fm/user/dave_barnwell) - I aim to listen to at least one album on Vinyl every day, because it's a ritual as well as a great way to relax, beyond the convenience of streaming where I consume most music.
-- 📚 [Books read](https://www.goodreads.com/user/show/61285088-dave-barnwell) - I aim to read a book a week minimum.
+- 📚 [Books read](https://www.goodreads.com/user/show/61285088-dave-barnwell) - I aim to read a book a week minimum, a lot of that is SciFi!
 
 ## Philosophy
 
