@@ -2,7 +2,17 @@
 
 📍 [Cornwall, UK](https://maps.app.goo.gl/5HTxsBj2KtagHonF6) | 🤖 [Software Architect / Full Stack Developer](https://d4b.dev) |  🎶 [Music Lover](https://www.instagram.com/davesgroove/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davebarnwell&layout=compact)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=Laravel&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue.js-blue?logo=Vue.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-blue?logo=GraphQL)
+![GoLang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-257bd6?logo=docker&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![Node JS](https://img.shields.io/badge/node.js-339933?logo=Node.js&logoColor=white)
+![Shell CLI](https://img.shields.io/badge/Shell-4EAA25?&style=plastic&logo=gnu-bash&logoColor=white)
 
 ## Recent Professional Projects
 
