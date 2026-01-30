@@ -50,6 +50,4 @@
 
 ## Philosophy
 
-I'd rather ship a product and learn than from customers feedback, than insist on perfection. I believe in the power of
-iteration and continuous improvement, and that by shipping early and often, we can gather valuable feedback and make
-better products.
+Ship product fast, learn than from customer feedback, iterate, don't wait on perfection.
