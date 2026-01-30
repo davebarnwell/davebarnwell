@@ -26,7 +26,7 @@
 ![gemini](https://img.shields.io/badge/gemini-000000?&logo=gemini&logoColor=white)
 ![claude](https://img.shields.io/badge/claude-000000?&logo=claude&logoColor=white)
 
-## Recent Professional Projects
+## Recent Professional Projects/Associations
 
 - 💪 [ActionStorm](https://actionstorm.org) - Campaign management platform.
 - 👩‍🏫 [Pass](https://pass.tech/) - Ed Tech platform.
@@ -34,6 +34,7 @@
 - 🥳 [Sched/Emamo](https://sched.com) - Event management platform.
 - ⚡️ [Best Energy](https://www.best.energy/) - Renewable energy/IoT platform.
 - 💰 [Crowdfunder](https://crowdfunder.co.uk) - Crowdfunding platform.
+- 🧭 [SlowWays](https://beta.slowways.org) - walking routes between Britain's towns, cities and national landscapes.
 
 ## Personal Projects
 
