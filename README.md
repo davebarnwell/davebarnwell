@@ -36,7 +36,7 @@
 
 ## Personal Projects
 
-- 🪲 [rollbar-cli](https://github.com/davebarnwell/rollbar-cli) - CLI for [rollbar](https://rollbar.com) with associated AI Skill, feel free to contribute via PR
+- 🪲 [rollbar-cli](https://github.com/davebarnwell/rollbar-cli) - CLI for [rollbar](https://rollbar.com) with an Agent Skill. Let AI squash your bugs. Improvements via PR welcome.
 - 🏄🏻‍♂️ [Surfhog](https://surfhog.co.uk) - A Surf forecast for West Cornwall, with 20+ years of climatic data.
 - 🧑‍💻 [d4b](https://d4b.dev) - A Personal portfolio and blog.
 - 🗜️ [Favicon Maker](https://favicon-maker.d4b.dev) - A tool to create favicons for your website.
