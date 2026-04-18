@@ -26,29 +26,30 @@
 
 ## Recent Professional Projects
 
-- 💪 [ActionStorm](https://actionstorm.org) - Campaign management platform.
+- 💪 [ActionStorm](https://actionstorm.org) – Campaign management platform.
 - 👩‍🏫 [Pass](https://pass.tech/) - Ed Tech platform.
-- 🏛️ [Open Britain](https://open-britain.co.uk) - Campaigning for a fairer UK democracy.
+- 🏛️ [Open Britain](https://open-britain.co.uk) – Campaigning for a fairer UK democracy.
 - 🥳 [Sched/Emamo](https://sched.com) - Event management platform.
-- ⚡️ [Best Energy](https://www.best.energy/) - Renewable energy/IoT platform.
-- 💰 [Crowdfunder](https://crowdfunder.co.uk) - Crowdfunding platform.
+- ⚡️ [Best Energy](https://www.best.energy/) – Renewable energy/IoT platform.
+- 💰 [Crowdfunder](https://crowdfunder.co.uk) – Crowdfunding platform.
 - 🧭 [SlowWays](https://beta.slowways.org) - walking routes between Britain's towns, cities and national landscapes.
 
 ## Personal Projects
 
+- 🚥 [StateMachine](https://github.com/d4b-sw/finite-state-machine) – A TypeScript state machine implementation
 - 🪲 [rollbar-cli](https://github.com/davebarnwell/rollbar-cli) - CLI for [rollbar](https://rollbar.com) with an Agent Skill. Let AI squash your bugs. Improvements via PR welcome.
-- 🏄🏻‍♂️ [Surfhog](https://surfhog.co.uk) - A Surf forecast for West Cornwall, with 20+ years of climatic data.
+- 🏄🏻‍♂️ [Surfhog](https://surfhog.co.uk) – A Surf forecast for West Cornwall, with 20+ years of climatic data.
 - 🧑‍💻 [d4b](https://d4b.dev) - A Personal portfolio and blog.
-- 🗜️ [Favicon Maker](https://favicon-maker.d4b.dev) - A tool to create favicons for your website.
-- 🛜 [Open Graph Checker](https://social.d4b.dev) - A tool to check your Open Graph tags.
-- ☀️ [Weather Checker](https://weather.d4b.dev/?l=Gwithian%2C+United+Kingdom) - A tool to check your weather.
+- 🗜️ [Favicon Maker](https://favicon-maker.d4b.dev) – A tool to create favicons for your website.
+- 🛜 [Open Graph Checker](https://social.d4b.dev) – A tool to check your Open Graph tags.
+- ☀️ [Weather Checker](https://weather.d4b.dev/?l=Gwithian%2C+United+Kingdom) – A tool to check your weather.
 
 ## My Vibe
 
-- 🎶 [Music streamed](https://www.last.fm/user/dave_barnwell) - Music i've been streaming recently.
+- 🎶 [Music streamed](https://www.last.fm/user/dave_barnwell) – Music i've been streaming recently.
 - 🎶 [davesgroove](https://www.instagram.com/davesgroove/) - I make it a daily goal to listen to a vinyl album. It's
   a ritual and a relaxing experience, I post some of these on Instagram.
-- 📚 [Books read](https://www.goodreads.com/user/show/61285088-dave-barnwell) - I aim to read at least one book a week,
+- 📚 [Books read](https://www.goodreads.com/user/show/61285088-dave-barnwell) – I aim to read at least one book a week,
   often SciFi or Crime Novels; serious tech books get a look-in too.
 
 ## Philosophy
