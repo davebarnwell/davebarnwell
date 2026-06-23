@@ -43,6 +43,7 @@
 - 🗜️ [Favicon Maker](https://favicon-maker.d4b.dev) – A tool to create favicons for your website.
 - 🛜 [Open Graph Checker](https://social.d4b.dev) – A tool to check your Open Graph tags.
 - ☀️ [Weather Checker](https://weather.d4b.dev/?l=Gwithian%2C+United+Kingdom) – A tool to check your weather.
+- ✨ [okfdump](https://github.com/davebarnwell/okfdump) - Dump your database in [Open Knowledge Format](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing) for AI Agent context.
 
 ## My Vibe
 
