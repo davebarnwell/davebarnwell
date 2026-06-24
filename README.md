@@ -34,7 +34,7 @@
 - 💰 [Crowdfunder](https://crowdfunder.co.uk) – Crowdfunding platform.
 - 🧭 [SlowWays](https://beta.slowways.org) - walking routes between Britain's towns, cities and national landscapes.
 
-## Personal library and tools Projects
+## Personal Library And CLI-Tool Projects
 
 - 🚥 [StateMachine](https://github.com/d4b-sw/finite-state-machine) – A TypeScript state machine implementation
 - 🪲 [rollbar-cli](https://github.com/davebarnwell/rollbar-cli) - CLI for [rollbar](https://rollbar.com) with an Agent Skill. Let AI squash your bugs. Improvements via PR welcome.
