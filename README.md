@@ -34,16 +34,18 @@
 - 💰 [Crowdfunder](https://crowdfunder.co.uk) – Crowdfunding platform.
 - 🧭 [SlowWays](https://beta.slowways.org) - walking routes between Britain's towns, cities and national landscapes.
 
-## Personal Projects
+## Personal library and tools Projects
 
 - 🚥 [StateMachine](https://github.com/d4b-sw/finite-state-machine) – A TypeScript state machine implementation
 - 🪲 [rollbar-cli](https://github.com/davebarnwell/rollbar-cli) - CLI for [rollbar](https://rollbar.com) with an Agent Skill. Let AI squash your bugs. Improvements via PR welcome.
+- ✨ [okfdump](https://github.com/davebarnwell/okfdump) - Dump your database schema in [Open Knowledge Format](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing) for AI Agent context.
+
+## Personal Web Projects 
 - 🏄🏻‍♂️ [Surfhog](https://surfhog.co.uk) – A Surf forecast for West Cornwall, with 20+ years of climatic data.
 - 🧑‍💻 [d4b](https://d4b.dev) - A Personal portfolio and blog.
 - 🗜️ [Favicon Maker](https://favicon-maker.d4b.dev) – A tool to create favicons for your website.
 - 🛜 [Open Graph Checker](https://social.d4b.dev) – A tool to check your Open Graph tags.
 - ☀️ [Weather Checker](https://weather.d4b.dev/?l=Gwithian%2C+United+Kingdom) – A tool to check your weather.
-- ✨ [okfdump](https://github.com/davebarnwell/okfdump) - Dump your database schema in [Open Knowledge Format](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing) for AI Agent context.
 
 ## My Vibe
 
